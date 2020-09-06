@@ -12,6 +12,7 @@ a{
 }
 .attribution{
 	margin-top: 0;
+	text-decoration:underline;
 }
 .container{
 	width: 90%;
