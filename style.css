@@ -12,6 +12,8 @@ a{
 }
 .attribution{
 	margin-top: 0;
+}
+.attribution a{
 	text-decoration:underline;
 }
 .container{
