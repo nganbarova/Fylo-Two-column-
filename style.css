@@ -179,6 +179,9 @@ footer ul{
 footer li{
 	list-style-type: none;
 }
+#social{
+	margin-top:20px;
+}
 #social li{
 	display: inline;
 }
