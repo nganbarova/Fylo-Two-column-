@@ -163,6 +163,9 @@ footer{
 	color: #fff;
 	line-height: 2em;
 }
+.fas{
+	padding-right: 5px;
+}
 footer img{
 	margin-bottom: -230px;
 }
